@@ -1,46 +1,55 @@
-**NoSQL - MongoDB Labs**
+# NoSQL - MongoDB Labs 🗄️
 
-This repository contains practical labs completed during the ITI Training Program for learning NoSQL databases using MongoDB.
-Contents
+Practical labs completed during the **Information Technology Institute (ITI)** Training Program, focusing on MongoDB and NoSQL database concepts.
 
-**Lab 1**
+## 📚 Contents
 
-    MongoDB basic operations
-    Creating databases and collections
-    Insert, update, delete documents - drop database and collection
-    Querying data using find() - using operator in filtering
+### 🔹 Lab 1: MongoDB Fundamentals
+- Creating databases and collections
+- Basic CRUD operations (`insert`, `find`, `update`, `delete`)
+- Query filtering with operators (`$eq`, `$gt`, `$in`, etc.)
+- Dropping databases and collections
 
-**Lab 2**
+### 🔹 Lab 2: Advanced Operations
+- Complex queries with logical operators (`$and`, `$or`, `$nor`)
+- Advanced update operators (`$set`, `$push`, `$pull`, `$inc`)
+- Working with arrays and embedded documents
+- Aggregation Pipeline basics (`$match`, `$group`, `$project`)
+- Sorting and filtering aggregated results
 
-    Advanced queries - using operator in filtering more advanced
-    Working with update more advanced
-    Working with arrays and embedded documents
-    Aggregation pipeline basics
-    Filtering and sorting data
+### 🔹 Lab 3: Performance & Maintenance
+- Understanding indexes in MongoDB
+- Creating single and compound indexes
+- Using `explain()` to analyze query performance
+- Backup and restore with `mongodump` / `mongorestore`
+- JSON Schema Validation basics
 
-**Lab 3**
+## 🛠️ Skills Practiced
 
-    Indexing in MongoDB
-    Using explain() to analyze query performance
-    Creating single and compound indexes
-    Backup and restore using mongodump and mongorestore
+✅ MongoDB CRUD operations  
+✅ Query optimization with indexes  
+✅ Aggregation Pipeline design  
+✅ Database backup and restore strategies  
+✅ Schema design for NoSQL  
 
-**Skills Practiced**
+## 🧰 Tools Used
 
-    MongoDB CRUD operations
-    Query optimization
-    Index management
-    Database backup and restore
+| Tool | Purpose |
+|------|---------|
+| MongoDB | NoSQL database engine |
+| MongoDB Shell (`mongosh`) | Interactive querying |
+| Studio 3T | GUI for MongoDB management |
+| Command Line | Backup/restore operations |
 
-**Tools**
+## 🎓 Training Program
 
-    Studio 3T
-    MongoDB
-    MongoDB Shell
-    Command Line Tools
+**Information Technology Institute (ITI)**  
+*Data Engineering Intensive Code Camp*  
 
-**Training Program**
+These labs were implemented as part of hands-on practice to build real-world NoSQL database skills.
 
-**Information Technology Institute (ITI)**
+---
 
-These labs were implemented as part of hands-on practice during the ITI training program.
+> 💡 **Note**: Each lab folder contains `.js` scripts and documentation for reproducibility.
+
+🔗 [Connect with me on LinkedIn](your-linkedin-url)
