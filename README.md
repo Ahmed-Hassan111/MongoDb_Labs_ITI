@@ -11,10 +11,10 @@ Practical labs completed during the **Information Technology Institute (ITI)** T
 - Dropping databases and collections
 
 ### 🔹 Lab 2: Advanced Operations
-- Complex queries with logical operators (`$and`, `$or`, `$nor`)
-- Advanced update operators (`$set`, `$push`, `$pull`, `$inc`)
+- Complex queries with logical operators 
+- Advanced update operators
 - Working with arrays and embedded documents
-- Aggregation Pipeline basics (`$match`, `$group`, `$project`)
+- Aggregation Pipeline basics 
 - Sorting and filtering aggregated results
 
 ### 🔹 Lab 3: Performance & Maintenance
