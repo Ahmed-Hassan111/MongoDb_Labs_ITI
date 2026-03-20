@@ -50,6 +50,4 @@ These labs were implemented as part of hands-on practice to build real-world NoS
 
 ---
 
-> 💡 **Note**: Each lab folder contains `.js` scripts and documentation for reproducibility.
-
-🔗 [Connect with me on LinkedIn](www.linkedin.com/in/ahmed-hassan-dataeng)
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/ahmed-hassan-dataeng/)
